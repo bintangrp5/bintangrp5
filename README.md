@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Bintang Rafli Priatama
 
-**🎓 Mahasiswa D4 Teknik Informatika | 🎮 Game & AR Developer | 📱 Fullstack Mobile & Web Enthusiast**
+**🎓 Mahasiswa D4 Teknik Informatika | 🎮 Game & AR Developer | 📱 Mobile & Web Enthusiast**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Interactive+Games+%26+AR...;Developing+Mobile+%26+Web+Apps...;Exploring+AI+%26+Backend+Systems..." alt="Typing SVG" />
