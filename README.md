@@ -56,8 +56,20 @@ Selain itu, saya memiliki pengalaman luas merancang arsitektur aplikasi *end-to-
 * 📧 Email: bintangrafli73@gmail.com
 * 💼 LinkedIn: [linkedin.com/in/bintangrafli-priatama](https://linkedin.com/in/bintangrafli-priatama)
 
+---
+
+### 🌱 Sedang Belajar
+
+Saat ini saya sedang berfokus memperdalam mekanika *Game Development* tingkat lanjut dan pengembangan *Augmented Reality* (AR), serta pengembangan aplikasi mobile dan juga website. Di samping itu, saya juga terus mengeksplorasi cara memadukan keahlian teknis (*hard skills*) dengan kepekaan sosial (*soft skills*) melalui berbagai kegiatan kerelawanan, dengan tujuan menciptakan inovasi teknologi interaktif yang bermakna dan memberikan dampak positif yang nyata bagi masyarakat.
+
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/bintanggrp5">
+    <img src="https://github-readme-stats.vercel.app/api?username=bintanggrp5&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  ✨ Terima kasih sudah berkunjung ke profil saya! Jangan ragu untuk terhubung dan berkolaborasi 🙌
 </p>
