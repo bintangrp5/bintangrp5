@@ -65,11 +65,5 @@ Saat ini saya sedang berfokus memperdalam mekanika *Game Development* tingkat la
 <br>
 
 <p align="center">
-  <a href="https://github.com/bintanggrp5">
-    <img src="https://github-readme-stats.vercel.app/api?username=bintanggrp5&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
   ✨ Terima kasih sudah berkunjung ke profil saya! Jangan ragu untuk terhubung dan berkolaborasi 🙌
 </p>
